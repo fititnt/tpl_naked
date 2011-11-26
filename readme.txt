@@ -3,16 +3,15 @@ PHP | Joomla | Template | Just one template... naked
 Good for who need to output just your component info
 Author: Emerson Rocha Luiz - @fititnt - emerson@webdesign.eng.br
 
-------- Basic usage -------
+----------------------------------- How to use ---------------------------------
 
+--------------------------- Instalation & Dependences --------------------------
 
+-------------------------------------- Usage -----------------------------------
 
-------- Important -------
+-------------------------------------- Todo ------------------------------------
 
--------   @todo   -------
-
-
-------- Changelog -------
+----------------------------------- Changelog ----------------------------------
 2011-10-05: 1.0RC
 Created
 
